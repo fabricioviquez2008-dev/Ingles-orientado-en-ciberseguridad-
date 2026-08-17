@@ -1,1 +1,1 @@
-# Ingles-orientado-en-ciberseguridad-
+La ciberseguridad es un área enfocada en proteger computadoras, redes y datos frente a amenazas digitales. Con el crecimiento de la tecnología, la ciberseguridad es cada vez más importante para prevenir ataques y mantener segura la información.
